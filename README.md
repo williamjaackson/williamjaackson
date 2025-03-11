@@ -5,6 +5,12 @@ I'm [William Jackson](https://www.jaackson.com/), *[@williamjaackson]*<br>
 
 ###### I don't know what's happening. ever. ❤️
 
-<br>
+```sh
+git checkout master
+git reset $(git rev-list --max-parents=0 HEAD)
+git add .
+git commit -m "legacy code"
+git push --force origin master
+```
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=williamjaackson&theme=transparent)
