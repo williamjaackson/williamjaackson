@@ -12,5 +12,3 @@ git add .
 git commit -m "legacy code"
 git push --force origin master
 ```
-
-![GitHub Streak](https://streak-stats.demolab.com?user=williamjaackson&theme=transparent)
