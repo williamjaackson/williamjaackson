@@ -8,7 +8,7 @@ I'm [William Jackson](https://www.jaackson.com/), _[@williamjaackson]_<br>
 ```sh
 git checkout master
 git reset $(git rev-list --max-parents=0 HEAD)
-git add .
+git add -A
 git commit -m "legacy code"
 git push --force origin master
 ```
