@@ -13,4 +13,4 @@ git commit -m "legacy code"
 git push --force origin master
 ```
 
-#### [No Hello](https://nohello.net/) • [Don't Ask to Ask](https://dontasktoask.com/) • [XY Problem](https://xyproblem.info/)
+#### [No Hello](https://nohello.net/) • [Don't Ask to Ask](https://dontasktoask.com/) • [XY Problem](https://xyproblem.info/) • [Try it and See](https://tryitands.ee/)
